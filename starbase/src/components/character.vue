@@ -6,7 +6,7 @@
 <h4 class="card-title">{{character.name}} </h4>
 <p class="card-text">Height: {{character.height}}</p>
 <p class="card-text">Mass: {{character.mass}}</p>
-<p class="card-text">Mass: {{character.mass}}</p>
+
 <p class="card-text">Hair Color: {{character.hair_color}}</p>
 <p class="card-text">Eye Color: {{character.eye_color}}</p>
 </div>
